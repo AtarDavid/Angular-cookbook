@@ -1,0 +1,7 @@
+.list-group {
+    padding-inline-start: 0px;
+}
+
+.dropdown-menu a {
+    cursor:pointer;
+}
